@@ -1,0 +1,1 @@
+# DeepFake-Detection-Using-Vision-and-Wav2Vec2-Transformer-Models
